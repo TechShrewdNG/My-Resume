@@ -6,15 +6,14 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
+    title: `Nnamdi Awurumibe | Web Developer`,
+    author: `Nnamdi Awurumibe`,
+    description: `With 7+ years of experience in various web technologies, I help tech
               startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+              scalable solutions.`,
+    siteUrl: `https://nnamdisensei.com/`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: `nnamdisensei`,
     },
   },
   plugins: [
@@ -57,4 +56,5 @@ module.exports = {
       }
     }
   ],
-};
+// };
+hcj
