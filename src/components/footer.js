@@ -17,11 +17,11 @@ const Footer = ({ social }) => (
       <span className="inline-block mr-1">by</span>
       <a
         className="text-primary-500 hover:text-primary-700 font-bold"
-        href="https://barancezayirli.com"
+        href="https://techshrewd.com.ng"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Baran Cezayirli
+        Nnamdi Awurumibe
       </a>
     </div>
     {social && (
@@ -42,5 +42,4 @@ const Footer = ({ social }) => (
     )}
   </footer>
 );
-
 export default Footer;
