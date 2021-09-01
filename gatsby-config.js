@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
-        short_name: `CV`,
+        name: `Nnamdi Awurumibe | Web Developer`,
+        short_name: `Resume`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#38B2AC`,
         display: `standalone`,
-        icon: 'src/assets/site-icon.png'
+        icon: 'static/profile.jpeg'
       },
     },
     'gatsby-plugin-offline',
@@ -56,4 +56,4 @@ module.exports = {
       }
     }
   ],
-};
+}
