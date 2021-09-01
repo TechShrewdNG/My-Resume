@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+234 8165907113",
+    "email": "nnamdi912@outlook.com",
+    "website": "https://nnamdisensei.com",
+    "location": "Lagos, Nigeria"
   },
   "skills": [
     {
@@ -11,11 +11,11 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
+          "name": "Web Architecture",
           "percent": 89
         },
         {
-          "name": "Mobile/Web App Development",
+          "name": "Web App Development",
           "percent": 95
         },
         {
@@ -23,24 +23,24 @@
           "percent": 85
         },
         {
-          "name": "Project Management",
-          "percent": 92
+          "name": "Facebook Ads",
+          "percent": 85
         },
         {
-          "name": "Game Development",
-          "percent": 70
+          "name": "Google Ads",
+          "percent": 76
         },
         {
-          "name": "Blockchain",
+          "name": "Content Strategy",
           "percent": 85
         },
         {
           "name": "Dev Ops",
-          "percent": 81
+          "percent": 70
         },
         {
           "name": "Backend Development",
-          "percent": 93
+          "percent": 69
         },
         {
           "name": "Data Science",
@@ -51,7 +51,7 @@
           "percent": 70
         },
         {
-          "name": "UX",
+          "name": "Graphics Design",
           "percent": 80
         }
       ]
@@ -62,30 +62,30 @@
       "subskills": [
         {
           "name": "Javascript",
+          "percent": 87
+        },
+        {
+          "name": "HTML",
           "percent": 96
         },
         {
-          "name": "Java",
-          "percent": 82
+          "name": "CSS",
+          "percent": 90
         },
         {
-          "name": "Python",
-          "percent": 85
+          "name": "Ruby",
+          "percent": 60
         },
         {
-          "name": "C#",
-          "percent": 74
+          "name": ".Net",
+          "percent": 50
         },
         {
-          "name": "Solidity",
-          "percent": 85
+          "name": "PHP",
+          "percent": 80
         },
         {
-          "name": "Dart",
-          "percent": 75
-        },
-        {
-          "name": "Go",
+          "name": "SQL",
           "percent": 60
         }
       ]
@@ -98,61 +98,34 @@
           "name": "React"
         },
         {
-          "name": "Flutter"
+          "name": "Ruby On Rails"
         },
         {
-          "name": "React Native"
+          "name": "Bootstrap"
         },
         {
           "name": "Vue"
         },
         {
-          "name": "Spring"
-        },
-        {
           "name": "Angular"
-        },
-        {
-          "name": "Electron"
         },
         {
           "name": "Node"
         },
         {
-          "name": "Flusk"
+          "name": "Sass"
         },
         {
           "name": "Express"
         },
         {
-          "name": "Koa"
-        },
-        {
           "name": "Gatsby"
-        },
-        {
-          "name": "Apollo"
-        },
-        {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
         },
         {
           "name": "Next"
         },
         {
           "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
         }
       ]
     },
@@ -164,16 +137,19 @@
           "name": "Docker"
         },
         {
-          "name": "Jira"
+          "name": "Google Ads"
         },
         {
-          "name": "Unity"
+          "name": "Facebook Business Manager"
         },
         {
-          "name": "Godot"
+          "name": "Adobe Photoshop & Illustrator"
         },
         {
           "name": "Google Analytics"
+        },
+        {
+          "name": "Amazon Web Service"
         }
       ]
     },
@@ -188,121 +164,83 @@
           "name": "Mongodb"
         },
         {
-          "name": "Parse"
+          "name": "MySQL"
         },
         {
           "name": "Firebase"
         },
         {
-          "name": "Elastic Search"
+          "name": "MariaDB"
         }
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 15+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 15+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "Highly focused web technologist with a multidisciplinary skill set honed over 7+ years in the IT industry. I strive to build great online environments and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 7+ years of experience in various web technologies, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
-    },
-    {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "University of Ilorin",
+      "start": "2011",
+      "end": "2015"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
+      "role": "Freelance Web Developer",
+      "company": "Upwork",
+      "description": "Offering freelance web and ad technologies to clients worldwide.",
+      "start": "05/2021",
       "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "Web Developer and Product Manager",
+      "company": "Global Buy Limited",
+      "description": "Global Buy is an eCommerce startup with multiple online stores. I developed and managed 8 of their online stores. I came up with solutions to make store migrations easy.",
+      "start": "06/2021",
+      "end": "08/2021"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
+      "role": "Lead Web Developer",
+      "company": "Opera Ads",
+      "description": "Opera Ads is a platform empowering advertisers to take full control of Ad campaigns, from planning to execution, within the Opera Self Service ecosystem. I was responsible for leading the team of web developers in designing responsive landing pages to capture leads and pass information about our advertisers.",
+      "start": "08/2019",
+      "end": "05/2020"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
+      "role": "IT Manager",
+      "company": "Chariot Group",
+      "description": "Chariot Group is a real estate development company poised at providing real estate solutions. During my time here, I conducted online advocacy and opened a stream for cross platform promotions as well as ensuring that the website was fast and accessible to all clients over the world.",
+      "start": "09/2018",
+      "end": "08/2019"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Web, Extranet and Social Media Handler",
+      "company": "Lekki Central Hotel",
+      "description": "Managed efforts in building the online reviews and reputation of the hotel..",
+      "start": "12/2017",
+      "end": "09/2018"
     }
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
+      "url": "https://www.linkedin.com/in/nnamdiawurumibe"
     },
     {
       "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://twitter.com/nnamdisensei"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
+      "url": "https://github.com/TechShrewdNG"
     },
     {
       "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
+      "url": "https://www.facebook.com/nnamdimartinjr"
     },
     {
       "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.instagram.com/nnamdisensei"
     }
   ],
-  "role": "Technologist",
-  "projects": [
-    {
-      "name": "Gatsby resume starter",
-      "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
-    }
-  ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Nnamdi Awurumibe"
 }
