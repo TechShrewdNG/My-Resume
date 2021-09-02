@@ -16,7 +16,7 @@
         },
         {
           "name": "Web App Development",
-          "percent": 95
+          "percent": 97
         },
         {
           "name": "Product Management",
@@ -77,12 +77,12 @@
           "percent": 60
         },
         {
-          "name": ".Net",
+          "name": "C#",
           "percent": 50
         },
         {
           "name": "PHP",
-          "percent": 80
+          "percent": 85
         },
         {
           "name": "SQL",
@@ -123,6 +123,9 @@
         },
         {
           "name": "Next"
+        },
+        {
+          "name": ".Net"
         },
         {
           "name": "Amplify"
