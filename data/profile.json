@@ -152,7 +152,10 @@
           "name": "Google Analytics"
         },
         {
-          "name": "Amazon Web Services"
+          "name": "Amazon Web Services (Lightsail & Amplify)"
+        },
+        {
+          "name": "Google Cloud Platform"
         }
       ]
     },
