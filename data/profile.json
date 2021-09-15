@@ -110,7 +110,7 @@
           "name": "Angular"
         },
         {
-          "name": "Node"
+          "name": "Nuxt"
         },
         {
           "name": "Sass"
@@ -133,7 +133,22 @@
       ]
     },
     {
-      "title": "Software",
+      "title": "CMS'",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Wordpress"
+        },
+        {
+          "name": "Shopify"
+        },
+        {
+          "name": "Opencart"
+        }
+      ]
+    },
+    {
+      "title": "Software & Runtime Engines",
       "type": "tag",
       "subskills": [
         {
@@ -152,7 +167,10 @@
           "name": "Google Analytics"
         },
         {
-          "name": "Amazon Web Services (Lightsail & Amplify)"
+          "name": "Amazon Web Services"
+        },
+        {
+          "name": "Node.js"
         },
         {
           "name": "Google Cloud Platform"
