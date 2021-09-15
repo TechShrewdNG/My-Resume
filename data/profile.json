@@ -77,10 +77,6 @@
           "percent": 60
         },
         {
-          "name": "C#",
-          "percent": 50
-        },
-        {
           "name": "PHP",
           "percent": 85
         },
@@ -123,12 +119,6 @@
         },
         {
           "name": "Next"
-        },
-        {
-          "name": ".Net"
-        },
-        {
-          "name": "Amplify"
         }
       ]
     },
