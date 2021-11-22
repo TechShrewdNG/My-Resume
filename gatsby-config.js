@@ -46,7 +46,6 @@ module.exports = {
         },
       },
     },
-    'gatsby-plugin-netlify-cms',
     `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-plugin-purgecss`,
