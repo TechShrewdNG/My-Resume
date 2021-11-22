@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Nnamdi Awurumibe | Web Developer`,
-        short_name: `Resume`,
+        short_name: `Nnamdi A.`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#38B2AC`,
