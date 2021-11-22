@@ -77,10 +77,6 @@
           "percent": 60
         },
         {
-          "name": "C#",
-          "percent": 50
-        },
-        {
           "name": "PHP",
           "percent": 85
         },
@@ -110,7 +106,7 @@
           "name": "Angular"
         },
         {
-          "name": "Node"
+          "name": "Nuxt"
         },
         {
           "name": "Sass"
@@ -123,17 +119,26 @@
         },
         {
           "name": "Next"
-        },
-        {
-          "name": ".Net"
-        },
-        {
-          "name": "Amplify"
         }
       ]
     },
     {
-      "title": "Software",
+      "title": "CMS'",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Wordpress"
+        },
+        {
+          "name": "Shopify"
+        },
+        {
+          "name": "Opencart"
+        }
+      ]
+    },
+    {
+      "title": "Software & Runtime Engines",
       "type": "tag",
       "subskills": [
         {
@@ -153,6 +158,12 @@
         },
         {
           "name": "Amazon Web Services"
+        },
+        {
+          "name": "Node.js"
+        },
+        {
+          "name": "Google Cloud Platform"
         }
       ]
     },
@@ -245,6 +256,6 @@
       "url": "https://www.instagram.com/nnamdisensei"
     }
   ],
-  "role": "Web Developer",
+  "role": "Full Stack Web Developer (Front-End Most Times)",
   "fullname": "Nnamdi Awurumibe"
 }
