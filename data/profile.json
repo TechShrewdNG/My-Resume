@@ -2,7 +2,7 @@
   "contact": {
     "phone": "+2348165907113",
     "email": "nnamdi912@outlook.com",
-    "website": "https://techshrewd.com.ng",
+    "website": "https://techshrewd.org",
     "location": "Lagos, Nigeria"
   },
   "skills": [
@@ -35,20 +35,8 @@
           "percent": 85
         },
         {
-          "name": "Dev Ops",
-          "percent": 70
-        },
-        {
           "name": "Backend Development",
-          "percent": 69
-        },
-        {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
-          "percent": 70
+          "percent": 50
         },
         {
           "name": "Graphics Design",
@@ -73,10 +61,6 @@
           "percent": 90
         },
         {
-          "name": "Ruby",
-          "percent": 60
-        },
-        {
           "name": "PHP",
           "percent": 85
         },
@@ -94,19 +78,7 @@
           "name": "React"
         },
         {
-          "name": "Ruby On Rails"
-        },
-        {
           "name": "Bootstrap"
-        },
-        {
-          "name": "Vue"
-        },
-        {
-          "name": "Angular"
-        },
-        {
-          "name": "Nuxt"
         },
         {
           "name": "Sass"
