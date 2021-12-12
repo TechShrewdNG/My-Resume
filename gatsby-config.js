@@ -24,7 +24,7 @@ module.exports = {
         short_name: `Nnamdi A.`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#38B2AC`,
+        theme_color: `#0000FF`,
         display: `standalone`,
         icon: 'static/profile.jpeg'
       },
