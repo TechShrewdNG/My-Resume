@@ -35,8 +35,20 @@
           "percent": 85
         },
         {
+          "name": "Dev Ops",
+          "percent": 70
+        },
+        {
           "name": "Backend Development",
-          "percent": 50
+          "percent": 69
+        },
+        {
+          "name": "Data Science",
+          "percent": 65
+        },
+        {
+          "name": "Artificial Intelligence",
+          "percent": 70
         },
         {
           "name": "Graphics Design",
@@ -61,6 +73,10 @@
           "percent": 90
         },
         {
+          "name": "Ruby",
+          "percent": 60
+        },
+        {
           "name": "PHP",
           "percent": 85
         },
@@ -78,13 +94,22 @@
           "name": "React"
         },
         {
+          "name": "Ruby On Rails"
+        },
+        {
           "name": "Bootstrap"
         },
         {
-          "name": "Sass"
+          "name": "Vue"
         },
         {
-          "name": "Tailwind"
+          "name": "Angular"
+        },
+        {
+          "name": "Nuxt"
+        },
+        {
+          "name": "Sass"
         },
         {
           "name": "Express"
@@ -129,7 +154,7 @@
           "name": "Adobe Photoshop & Illustrator"
         },
         {
-          "name": "Snipcart"
+          "name": "Google Analytics"
         },
         {
           "name": "Amazon Web Services"
@@ -164,7 +189,7 @@
       ]
     }
   ],
-  "summary": "Highly focused web technologist with a multidisciplinary skill set honed over 7+ years in the IT industry. I strive to build great online environments and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 7+ years of experience in various web technologies, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization.",
+  "summary": "Holla 👋🏾 <br>I'm  Nnamdi Awurumibe. <br>A Web Developer and Software Engineer. <br>I'm passionate about emerging Web Technologies and Headless E-Commerce with JAMstack. <br>I help startups and established businesses develop custom online environments. <br>I am a highly focused web technologist with a multidisciplinary skill set honed over 7+ years in the IT industry. <br>I strive to build great online environments and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. <br>With 7+ years of experience in various web technologies, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization.",
   "education": [
     {
       "institution": "University of Ilorin",
