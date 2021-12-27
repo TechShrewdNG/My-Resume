@@ -53,8 +53,12 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Javascript",
+          "name": "JavaScript",
           "percent": 87
+        },
+        {
+          "name": "TypeScript",
+          "percent": 70
         },
         {
           "name": "HTML",
