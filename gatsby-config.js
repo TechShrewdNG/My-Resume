@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Nnamdi Awurumibe | Web Developer`,
+    title: `Nnamdi Awurumibe | Software Engineer, Web`,
     author: `Nnamdi Awurumibe`,
     description: `With 7+ years of experience in various web technologies, I help tech
               startups from idea phase to high volumes. I design and build
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Nnamdi Awurumibe | Web Developer`,
+        name: `Nnamdi Awurumibe | Software Engineer, Web`,
         short_name: `Nnamdi A.`,
         start_url: `/`,
         background_color: `#f7f0eb`,
